@@ -1,17 +1,15 @@
-name: InfoType
+name: Meteor Shower!!!
 type: enum
-summary: ''
-description: |
-  Used to represent the possible information formats returnable by
-  `Class.MarketplaceService:GetProductInfo()`.
+summary: 
+description: Summon a meteor shower to prank your friens!
 code_samples:
 tags: []
 deprecation_message: ''
 items:
-  - name: Asset
+  - name:Meteor Shower
     summary: |
       Asset format type - the product is an asset.
-    value: 0
+    value: 15
     tags: []
     deprecation_message: ''
   - name: Product
@@ -23,16 +21,16 @@ items:
   - name: GamePass
     summary: |
       GamePass format type - the product is a GamePass.
-    value: 2
+    value: 15
     tags: []
     deprecation_message: ''
   - name: Subscription
     summary: ''
-    value: 3
+    value: 15
     tags: []
     deprecation_message: ''
   - name: Bundle
     summary: ''
-    value: 4
+    value: 15
     tags: []
     deprecation_message: ''
